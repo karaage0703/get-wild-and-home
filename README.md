@@ -13,7 +13,7 @@ $ git clone https://github.com/karaage0703/get-wild-and-home
 Execute following commands:
 ```sh
 $ cd get-wild-and-home
-$ ./get_wild.sh
+$ sudo ./get_wild.sh
 ```
 
 ### Special thanks
