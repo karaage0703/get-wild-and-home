@@ -14,7 +14,7 @@ $ brew tap caskroom/cask
 $ brew cask install sonic-pi
 ```
 
-## Installing python-sonicでSonic Piをpythonからコントロール
+## Installing python-sonic
 ```sh
 $ pip install python-sonic
 ```
@@ -23,7 +23,7 @@ $ pip install python-sonic
 Check below site(Japanese site)  
 http://qiita.com/zakuroishikuro/items/0c17acb21f119647c205
 
-## NoSleep CLIをインストール
+## Installing NoSleep CLI
 Download `NoSleep-x.x.x.dmg` from following link
 
 https://github.com/integralpro/nosleep/releases
