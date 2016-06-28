@@ -46,3 +46,6 @@ $ sudo ./get_wild.sh
 ### Special thanks
 - http://qiita.com/sion_cojp/items/276d0135216b88e5314b
 - https://github.com/gkvoelkl/python-sonic
+
+# License
+This software is released under the MIT License, see LICENSE.
